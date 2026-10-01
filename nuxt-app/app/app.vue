@@ -36,7 +36,7 @@
   </div>
 </template>
 <script>
-asdfuj
+pin
 export default {
   data() {
     return {
